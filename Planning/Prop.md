@@ -10,7 +10,7 @@ Q2. What dataset are you going to use (you can select more or less anything not 
     Null Hypothesis:
    For this breast cancer dataset which describes features of metastatic breast cancer(observable characteristics), 
    if the value from the compiled features(texture, perimeter, area, smoothness, compactness, concavity, concave points,
-   symmetry, fractal dimension) is greater than 48 then the tumor is noncancerous,
+   symmetry, fractal dimension) is lesser than 48 then the tumor is noncancerous.
     Alternative Hypothesis:
    For this breast cancer dataset which describes features of metastatic breast cancer(observable characteristics), 
    if the value from the compiled features(texture, perimeter, area, smoothness, compactness, concavity, concave points, 
